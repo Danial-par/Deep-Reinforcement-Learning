@@ -35,3 +35,6 @@ This homework focuses on exploration strategies in reinforcement learning, inves
 
 ### 11. [Imitation & Inverse RL](11_Imitation_and_Inverse_RL/)
 This homework explores how agents can learn from expert demonstrations through Imitation Learning (IL) and Inverse Reinforcement Learning (IRL). It includes theoretical analysis of distributional shift and performance bounds and practical implementations of PPO, A2C, DAgger, and GAIL on CartPole. The experiments compare expert-driven and environment-driven learning, highlighting how adversarial methods like GAIL bridge imitation and reinforcement by matching expert occupancy measures.
+
+### 12. [Offline Methods](12_Offline_Methods/)
+This homework focuses on Offline Reinforcement Learning (Offline RL), where agents learn exclusively from pre-collected datasets without further environment interaction. It covers both theoretical and practical aspects of Conservative Q-Learning (CQL), analyzing its objective and role in mitigating overestimation caused by distributional shift. The implementation trains a CQL-SAC agent on offline data and evaluates its generalization performance, illustrating how conservative value estimation enables stable and safe policy learning.
