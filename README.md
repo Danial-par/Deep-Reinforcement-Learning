@@ -8,3 +8,6 @@ This homework introduces the fundamentals of reinforcement learning through prac
 
 ### 2. [Value-Based Methods](02_Value_Based_Methods/)
 This homework focuses on value-based reinforcement learning. It implements and analyzes N-Step SARSA and N-Step Q-Learning on the Cliff Walking environment, exploring the effects of ε-greedy exploration and multi-step updates. It also compares DQN and DDQN on CartPole, highlighting the reduction of overestimation bias and improved training stability.
+
+### 3. [Policy-Based Methods](03_Policy_Based_Methods/)
+This homework explores policy-based reinforcement learning, focusing on the REINFORCE algorithm and its variants. It compares REINFORCE with Genetic Algorithms (GA) for policy search, studies the effect of baselines on training stability in CartPole, extends REINFORCE to continuous action spaces with MountainCarContinuous, and contrasts Policy Gradients with DQN on Frozen Lake.
