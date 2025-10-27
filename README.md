@@ -29,3 +29,6 @@ This homework focuses on the theoretical foundations of policy-based reinforceme
 
 ### 9. [Advanced Theory](09_Advanced_Theory/)
 This homework delves into the advanced theoretical aspects of reinforcement learning, extending beyond basic policy and value methods. It explores topics such as actor–critic convergence analysis, natural policy gradients, trust-region optimization, and the foundations of entropy-regularized RL. Note that there is no notebook in this section.
+
+### 10. [Exploration Methods](10_Exploration_Methods/)
+This homework focuses on exploration strategies in reinforcement learning, investigating how agents balance curiosity and exploitation. It implements and compares several techniques including ε-greedy, Boltzmann exploration, Upper Confidence Bound (UCB), and intrinsic motivation approaches such as random network distillation (RND) and count-based bonuses. The experiments highlight how different exploration mechanisms affect sample efficiency, stability, and long-term performance across stochastic environments.
