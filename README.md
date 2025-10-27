@@ -11,3 +11,6 @@ This homework focuses on value-based reinforcement learning. It implements and a
 
 ### 3. [Policy-Based Methods](03_Policy_Based_Methods/)
 This homework explores policy-based reinforcement learning, focusing on the REINFORCE algorithm and its variants. It compares REINFORCE with Genetic Algorithms (GA) for policy search, studies the effect of baselines on training stability in CartPole, extends REINFORCE to continuous action spaces with MountainCarContinuous, and contrasts Policy Gradients with DQN on Frozen Lake.
+
+### 4. [Advanced Methods](04_Advanced_Methods/)
+This homework explores advanced actor-critic algorithms in deep reinforcement learning, including Proximal Policy Optimization (PPO), Deep Deterministic Policy Gradient (DDPG), and Soft Actor-Critic (SAC). Each method is implemented and analyzed across continuous-control environments such as HalfCheetah, focusing on sample efficiency, stability, and exploration strategies. The final part compares all three algorithms, highlighting SAC’s superior balance between stability and performance.
