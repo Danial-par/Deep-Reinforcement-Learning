@@ -17,3 +17,6 @@ This homework explores advanced actor-critic algorithms in deep reinforcement le
 
 ### 5. [Model-Based RL](05_Model_Based_RL/)
 This homework focuses on model-based reinforcement learning techniques, combining planning, learning, and control. It begins with implementing a MuZero-inspired agent using Monte Carlo Tree Search (MCTS) for decision-making, followed by the Dyna-Q algorithm and Prioritized Sweeping on the FrozenLake environment. The final section explores Model Predictive Control (MPC) to solve the Pendulum environment using differentiable optimization in PyTorch. The exercises emphasize planning efficiency, reward shaping, and the trade-off between learned dynamics and control precision.
+
+### 6. [Multi-Armed Bandits](06_Multi_Armed_Bandits/)
+This homework explores multi-armed bandit (MAB) algorithms, focusing on the trade-off between exploration and exploitation. It implements and analyzes several bandit agents — including Oracle, Random, Explore-First, UCB, Epsilon-Greedy, and LinUCB — across stationary and contextual settings. The project culminates in a deep conceptual analysis of regret, non-stationarity, hyperparameter sensitivity, and hybrid strategies, connecting theoretical regret guarantees with practical performance in finite-horizon environments.
