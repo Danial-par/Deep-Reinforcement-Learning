@@ -14,3 +14,6 @@ This homework explores policy-based reinforcement learning, focusing on the REIN
 
 ### 4. [Advanced Methods](04_Advanced_Methods/)
 This homework explores advanced actor-critic algorithms in deep reinforcement learning, including Proximal Policy Optimization (PPO), Deep Deterministic Policy Gradient (DDPG), and Soft Actor-Critic (SAC). Each method is implemented and analyzed across continuous-control environments such as HalfCheetah, focusing on sample efficiency, stability, and exploration strategies. The final part compares all three algorithms, highlighting SAC’s superior balance between stability and performance.
+
+### 5. [Model-Based RL](05_Model_Based_RL/)
+This homework focuses on model-based reinforcement learning techniques, combining planning, learning, and control. It begins with implementing a MuZero-inspired agent using Monte Carlo Tree Search (MCTS) for decision-making, followed by the Dyna-Q algorithm and Prioritized Sweeping on the FrozenLake environment. The final section explores Model Predictive Control (MPC) to solve the Pendulum environment using differentiable optimization in PyTorch. The exercises emphasize planning efficiency, reward shaping, and the trade-off between learned dynamics and control precision.
