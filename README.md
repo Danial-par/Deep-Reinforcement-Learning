@@ -20,3 +20,12 @@ This homework focuses on model-based reinforcement learning techniques, combinin
 
 ### 6. [Multi-Armed Bandits](06_Multi_Armed_Bandits/)
 This homework explores multi-armed bandit (MAB) algorithms, focusing on the trade-off between exploration and exploitation. It implements and analyzes several bandit agents — including Oracle, Random, Explore-First, UCB, Epsilon-Greedy, and LinUCB — across stationary and contextual settings. The project culminates in a deep conceptual analysis of regret, non-stationarity, hyperparameter sensitivity, and hybrid strategies, connecting theoretical regret guarantees with practical performance in finite-horizon environments.
+
+### 7. [Value-Based Theory](07_Value_Based_Theory/)
+This homework focuses on the theoretical foundations of value-based reinforcement learning. Note that the answers are in Persian, and there is no notebook in this section.
+
+### 8. [Policy-Based Theory](08_Policy_Based_Theory/)
+This homework focuses on the theoretical foundations of policy-based reinforcement learning. Note that the answers are in Persian, and there is no notebook in this section.
+
+### 9. [Advanced Theory](09_Advanced_Theory/)
+This homework delves into the advanced theoretical aspects of reinforcement learning, extending beyond basic policy and value methods. It explores topics such as actor–critic convergence analysis, natural policy gradients, trust-region optimization, and the foundations of entropy-regularized RL. Note that there is no notebook in this section.
